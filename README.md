@@ -1,4 +1,4 @@
-# Canny Edeg Detection
+# Canny Edge Detection
 
 Implementation of Canny edge detection in MATLAB without using built-in functions.
 
